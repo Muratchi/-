@@ -6,8 +6,8 @@ html,body{
 #nav{
 	width: 100%;/*横幅を決める*/
 	line-height: 89px;/*文字を中心として高さを決める*/
-	background-color: rgba(255,255,255,0.5);/*背景色を変える*/
-	position: fixed;
+/*	background-color: rgba(255,255,255,0.5);*//*背景色を変える*/
+	position: absolute;
 	margin-top: -8em;
 }
 #nav div{
