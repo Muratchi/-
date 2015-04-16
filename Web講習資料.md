@@ -101,7 +101,7 @@ srcの所に貼りたい画像のurlを書いて使用する。
 ####(6) サイトにアイコンをつけよう!
 
 ```html
-<link rel="shortcut icon" href="favicon.ico">
+<link rel="shortcut icon" href="favicon.ico"　type="image/vnd.microsoft.icon">
 ```
 
 #####解説
